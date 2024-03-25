@@ -1,0 +1,6 @@
+[submodule "FootballPrediction-BE"]
+	path = FootballPrediction-BE
+	url = https://github.com/loriansandu/FootballPrediction-BE.git
+[submodule "FootballPrediction-FE"]
+	path = FootballPrediction-FE
+	url = https://github.com/loriansandu/FootballPrediction-FE.git
